@@ -1,2 +1,2 @@
 # Android_Demo
-Just a sample android demo app
+Just a sample android demo app comming soon
